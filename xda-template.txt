@@ -13,20 +13,21 @@
 use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS/DUI][Enter device name here]
 
 
----------------XDA THREAD TEMPLATE ..COPY FROM  HERE -------------------------
+---------------XDA THREAD TEMPLATE --- COPY FROM  HERE -------------------------
 
 
 
+ 
 [CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/banner.png[/IMG]
-
+ 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/about.png[/IMG][/CENTER]
-[CENTER][COLOR="black"][B]AIMROM[/COLOR] is based on LineageOS. Our aim is to present to you a combination of unmatched stability,performance,battery life,customizations and sets of usefull features that are picked by our team and testers. We ensure that the sweet taste of latest Android essence stays in your device.[/B].
-
+[CENTER][COLOR="black"][B]AIMROM[/COLOR] is based on Lineage OS. We AIM to provide you with an experience of unmatched stability, performance, battery life, customizations and useful features that are picked out by our team and testers. We ensure that the sweet taste of latest Android essence stays with your device.[/B].
+ 
+ 
 [B][SIZE="5"][COLOR="Green"]Introducing Nougat based AIMROM for "Enter device name here"[/COLOR][/SIZE][/B]
-
+ 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/features.png[/IMG]
-[B]Features of AIMROM[/B]
-
+ 
 [B][I][COLOR="green"]DIVE DEEP INTO THE FREEDOM HUB[/COLOR][/I][/B]
 
 [B][COLOR="blue"][SIZE="5"]STATUSBAR :[/COLOR][/SIZE][/B]
@@ -66,30 +67,34 @@ use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS/DUI][Enter device
  The list goes on.......
  [/SIZE][/COLOR][/B][/HIDE]
  
-
 [COLOR="royalblue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
-
+ 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/Downloads.png[/IMG]
-[HIDE][URL=DOWNLOAD NOW] ENTER YOUR ROM LINK HERE[/URL][/HIDE]
-
+[HIDE][URL=DOWNLOAD AIM NOW] ENTER YOUR ROM LINK HERE[/URL][/HIDE]
+ 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/meetourteam.png[/IMG]
 [COLOR="Navy"][SIZE=3]
 [B]
-Emmanuel N. D. Enlinger(not in xda) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
+Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
 [MENTION=7526018]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
 [MENTION=7550463]Shadowreaper1[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
 [MENTION=4168602]Klabit87[/MENTION] --> [B][I][COLOR="green"]Developer[/COLOR][/I][/B][/SIZE][/CENTER][/COLOR][/B]
-
-[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/keepintouch.png[/IMG]
+ 
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/keepintouch.png[/IMG][/CENTER]
 [CENTER][B][I][SIZE="3"][COLOR="Green"]JOIN OUR COMMUNITIES[/COLOR][/SIZE][/I][/B][/CENTER]
-
+ 
 [CENTER][URL="https://t.me/joinchat/AAAAAEGlvThIxMq8yPB1JA"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL]   [URL="https://plus.google.com/communities/111507505190229665939"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/gplus.png[/IMG][/URL]
 [/CENTER]
+----DELETE IF NO TELE DEVICE GROUP(OTHERWISE DELETE THE TEXT BETWEEN “---&---” ---[CENTER][B][I][SIZE="3"][COLOR="Green"]JOIN THE DEVICE GROUP[/COLOR][/SIZE][/I][/B][/CENTER]
+ 
+[CENTER][URL="PUT LINK HERE"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL] 
+
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/ourgit.png[/IMG]
 [B][URL="http://github.com/AIMROM"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL] [/B][/CENTER]
-
+ 
 [URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/shareyourlove.png[/IMG][/CENTER][/URL]
-[CENTER][B][FONT="Times New Roman"][COLOR="red"]DONATION IS NOT NECESSARY , BUT IT WILL HELP US TO PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VERY IMPORTANT AND VALUABLE FOR US,[/COLOR] [/FONT][/B]
-
+[CENTER][B][FONT="Times New Roman"][COLOR="red"]DONATIONS ARE NOT NECESSARY, BUT IT WILL HELP US PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VALUABLE [/COLOR] [/FONT][/B]
+ 
 [B][I][COLOR="blue"][URL="https://www.paypal.me/AIMroms"][COLOR="teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/I][/B]:angel::angel:[/CENTER]
 [URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/donateusplox.png[/IMG][/CENTER][/URL]
+ 

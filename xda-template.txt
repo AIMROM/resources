@@ -1,16 +1,17 @@
-	==========================================================|
-	|                                                         |
-	|                     AIM ROM 2017                        |
-	|                                                         |
-	|=========================================================|
-
-
+	       d8888 8888888 888b     d888     8888888b.   .d88888b.  888b     d888 
+	      d88888   888   8888b   d8888     888   Y88b d88P' 'Y88b 8888b   d8888 
+	     d88P888   888   88888b.d88888     888    888 888     888 88888b.d88888 
+	    d88P 888   888   888Y88888P888     888   d88P 888     888 888Y88888P888 
+	   d88P  888   888   888 Y888P 888     8888888P   888     888 888 Y888P 888 
+	  d88P   888   888   888  Y8P  888     888 T88b   888     888 888  Y8P  888 
+	 d8888888888   888   888   '   888     888  T88b  Y88b. .d88P 888   '   888 
+	d88P     888 8888888 888       888     888   T88b  'Y88888P'  888       888 
 
 					--------COPY FROM HERE-----------
 
 
 
-use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS/DUI][Enter device name here]
+use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM v2.0 [OMS/DUI][Enter device name here]
 
 
 ---------------XDA THREAD TEMPLATE --- COPY FROM  HERE -------------------------
@@ -76,7 +77,7 @@ use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM [OMS/DUI][Enter device
 [COLOR="Navy"][SIZE=3]
 [B]
 Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
-[MENTION=7526018]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
+[MENTION=6034516]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
 [MENTION=7550463]Shadowreaper1[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
 [MENTION=4168602]Klabit87[/MENTION] --> [B][I][COLOR="green"]Developer[/COLOR][/I][/B][/SIZE][/CENTER][/COLOR][/B]
  
@@ -85,9 +86,6 @@ Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/pr
  
 [CENTER][URL="https://t.me/joinchat/AAAAAEGlvThIxMq8yPB1JA"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL]   [URL="https://plus.google.com/communities/111507505190229665939"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/gplus.png[/IMG][/URL]
 [/CENTER]
-----DELETE IF NO TELE DEVICE GROUP(OTHERWISE DELETE THE TEXT BETWEEN “---&---” ---[CENTER][B][I][SIZE="3"][COLOR="Green"]JOIN THE DEVICE GROUP[/COLOR][/SIZE][/I][/B][/CENTER]
- 
-[CENTER][URL="PUT LINK HERE"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL] 
 
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/ourgit.png[/IMG]
 [B][URL="http://github.com/AIMROM"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL] [/B][/CENTER]

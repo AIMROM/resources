@@ -87,7 +87,7 @@ Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/pr
 [CENTER][URL="https://t.me/joinchat/AAAAAEGlvThIxMq8yPB1JA"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL]   [URL="https://plus.google.com/communities/111507505190229665939"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/gplus.png[/IMG][/URL]
 [/CENTER]
 
-[IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/ourgit.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/ourgit.png[/IMG]
 [B][URL="http://github.com/AIMROM"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL] [/B][/CENTER]
  
 [URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/shareyourlove.png[/IMG][/CENTER][/URL]

@@ -22,77 +22,72 @@ use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM v2.0 [OMS/DUI][Enter d
 [CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/banner.png[/IMG]
  
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/about.png[/IMG][/CENTER]
-[CENTER][COLOR="black"][B]AIMROM[/COLOR] is based on Lineage OS. We AIM to provide you with an experience of unmatched stability, performance, battery life, customizations and useful features that are picked out by our team and testers. We ensure that the sweet taste of latest Android essence stays with your device.[/B].
+[CENTER][B][COLOR="Black"]AIMROM[/COLOR] is based on Lineage OS. We AIM to provide you with an experience of unmatched stability, performance, battery life, customizations and useful features that are picked out by our team and testers. We ensure that the sweet taste of latest Android essence stays with your device.[/B].
  
  
 [B][SIZE="5"][COLOR="Green"]Introducing Nougat based AIMROM for "Enter device name here"[/COLOR][/SIZE][/B]
  
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/features.png[/IMG]
  
-[B][I][COLOR="green"]DIVE DEEP INTO THE FREEDOM HUB[/COLOR][/I][/B]
+[B][I][COLOR="Green"]DIVE DEEP INTO THE FREEDOM HUB[/COLOR][/I][/B]
 
-[B][COLOR="blue"][SIZE="5"]STATUSBAR :[/COLOR][/SIZE][/B]
-[HIDE]
-[B][COLOR="teal"][SIZE="3"]
- Superuser indicator on/of
- Network Traffic indicators
- Custom Carrier Label
- Custom Statusbar icons
- Brightness Control
- Double-Tap On Statusbar to Sleep
- [/SIZE][/COLOR][/B][/HIDE]
+[B][SIZE="5"][COLOR="Blue"]STATUSBAR :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Teal"][SIZE="3"]
+Superuser indicator on/off
+Network Traffic indicators
+Custom Carrier Label
+Custom Statusbar icons
+Brightness Control
+Double-Tap On Statusbar to Sleep
+[/SIZE][/COLOR][/B][/HIDE]
 
-[B][COLOR="blue"][SIZE="5"]INTERFACE :[/COLOR][/SIZE][/B][HIDE]
-[B][COLOR="teal"][SIZE="3"]
- DARK/LIGHT THEME
- Custom Density settings
- Media cover art on/off
- Quick settings on lockscreen on/off
- And more..[/SIZE][/COLOR][/B][/HIDE]
+[B][SIZE="5"][COLOR="Blue"]INTERFACE :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Teal"][SIZE="3"]
+DARK/LIGHT THEME
+Custom Density settings
+Media cover art on/off
+Quick settings on lockscreen on/off
+And more...[/SIZE][/COLOR][/B][/HIDE]
  
-[CENTER][B][SIZE="5"][COLOR="blue"]BUTTONS :[/COLOR][/SIZE][/B][/CENTER]
-[HIDE][B][COLOR="teal"][SIZE="3"]
- Live volume
- Hardware Key Configuration
- Power Menu Configuration
- Advanced reboot
- FIngerprint vibration
- Fingerprint keystore unlock
- And more..[/SIZE][/COLOR][/B][/HIDE]
+[B][SIZE="5"][COLOR="Blue"]BUTTONS :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Teal"][SIZE="3"]
+Live volume
+Hardware Key Configuration
+Power Menu Configuration
+Advanced reboot
+Fingerprint vibration
+Fingerprint keystore unlock
+And more..[/SIZE][/COLOR][/B][/HIDE]
 
-[B][SIZE="5"][COLOR="blue"]MISC :[/COLOR][/SIZE][/B]
-[HIDE][B][COLOR="teal"][SIZE="3"]
- Alarm blocker
- System app remover 
- Screenshot Sound
- The list goes on.......
- [/SIZE][/COLOR][/B][/HIDE]
+[B][SIZE="5"][COLOR="Blue"]MISC :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="Teal"][SIZE="3"]
+Alarm blocker
+System app remover 
+Screenshot Sound
+The list goes on...
+[/SIZE][/COLOR][/B][/HIDE]
  
-[COLOR="royalblue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
+[COLOR="RoyalBlue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
  
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/Downloads.png[/IMG]
 [HIDE][URL="ENTER YOUR ROM LINK HERE"]DOWNLOAD AIM NOW[/URL][/HIDE]
  
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/meetourteam.png[/IMG]
-[COLOR="Navy"][SIZE=3]
-[B]
-Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
-[MENTION=6034516]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
-[MENTION=7550463]Shadowreaper1[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
-[MENTION=4168602]Klabit87[/MENTION] --> [B][I][COLOR="green"]Developer[/COLOR][/I][/B][/SIZE][/CENTER][/COLOR][/B]
+[COLOR="Navy"][SIZE="3"][B]Emmanuel N. D. Enlinger (not a member of XDA) --> [I][COLOR="Green"]Founder/project maintainer[/COLOR][/I]
+[MENTION=6034516]Anand N v[/MENTION] --> [I][COLOR="Green"]Co Founder/Head developer[/COLOR][/I]
+[MENTION=7550463]ShadowReaper1[/MENTION]  --> [I][COLOR="Green"]Lead developer[/COLOR][/I]
+[MENTION=4168602]Klabit87[/MENTION] --> [I][COLOR="Green"]Developer[/COLOR][/I][/B][/SIZE][/COLOR]
  
-[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/keepintouch.png[/IMG][/CENTER]
-[CENTER][B][I][SIZE="3"][COLOR="Green"]JOIN OUR COMMUNITIES[/COLOR][/SIZE][/I][/B][/CENTER]
+[IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/keepintouch.png[/IMG]
+[B][I][SIZE="3"][COLOR="Green"]JOIN OUR COMMUNITIES[/COLOR][/SIZE][/I][/B]
  
-[CENTER][URL="https://t.me/joinchat/AAAAAEGlvThIxMq8yPB1JA"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL]   [URL="https://plus.google.com/communities/111507505190229665939"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/gplus.png[/IMG][/URL]
-[/CENTER]
+[URL="https://t.me/joinchat/AAAAAEGlvThIxMq8yPB1JA"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL]   [URL="https://plus.google.com/communities/111507505190229665939"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/gplus.png[/IMG][/URL]
 
-[CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/ourgit.png[/IMG]
-[B][URL="http://github.com/AIMROM"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL] [/B][/CENTER]
+[IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/ourgit.png[/IMG]
+[URL="http://github.com/AIMROM"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL]
  
-[URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/shareyourlove.png[/IMG][/CENTER][/URL]
-[CENTER][B][FONT="Times New Roman"][COLOR="red"]DONATIONS ARE NOT NECESSARY, BUT IT WILL HELP US PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VALUABLE [/COLOR] [/FONT][/B]
+[URL="https://www.paypal.me/AIMroms"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/shareyourlove.png[/IMG][/URL]
+[B][FONT="Times New Roman"][COLOR="Red"]DONATIONS ARE NOT NECESSARY, BUT IT WILL HELP US PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VALUABLE[/COLOR][/FONT][/B]
  
-[B][I][COLOR="blue"][URL="https://www.paypal.me/AIMroms"][COLOR="teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/I][/B]:angel::angel:[/CENTER]
-[URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/donateusplox.png[/IMG][/CENTER][/URL]
- 
+[B][I][COLOR="Blue"][URL="https://www.paypal.me/AIMroms"][COLOR="Teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/I][/B]:angel::angel:
+[URL="https://www.paypal.me/AIMroms"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/donateusplox.png[/IMG][/URL][/CENTER]

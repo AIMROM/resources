@@ -1,0 +1,112 @@
+
+	       d8888 8888888 888b     d888     8888888b.   .d88888b.  888b     d888 
+	      d88888   888   8888b   d8888     888   Y88b d88P' 'Y88b 8888b   d8888 
+	     d88P888   888   88888b.d88888     888    888 888     888 88888b.d88888 
+	    d88P 888   888   888Y88888P888     888   d88P 888     888 888Y88888P888 
+	   d88P  888   888   888 Y888P 888     8888888P   888     888 888 Y888P 888 
+	  d88P   888   888   888  Y8P  888     888 T88b   888     888 888  Y8P  888 
+	 d8888888888   888   888   '   888     888  T88b  Y88b. .d88P 888   '   888 
+	d88P     888 8888888 888       888     888   T88b  'Y88888P'  888       888 
+
+					--------COPY FROM HERE-----------
+
+
+
+use this as Thread Title : [ROM][Oreo][OFFICIAL] AIM ROM v3.0 [8.0.0_r32][Enter device name here]
+
+
+---------------XDA THREAD TEMPLATE --- COPY FROM  HERE -------------------------
+
+
+
+
+[CENTER][IMG]https://github.com/AIMROM/template/raw/oreographics/AIM%20ROM.gif[/IMG]
+ 
+[IMG]https://github.com/AIMROM/template/raw/oreographics/About-us.gif[/IMG][/CENTER]
+[CENTER][COLOR="black"][B]AIMROM[/COLOR] is based on AOSP. We AIM to provide you with an experience of unmatched stability, performance, battery life, customizations and useful features that are picked out by our team and testers. We ensure that the sweet taste of latest Android essence stays with your device.[/B].
+ 
+ 
+[B][SIZE="5"][COLOR="Green"]Introducing Oreo based AIMROM for "Enter device name here"[/COLOR][/SIZE][/B]
+ 
+[IMG]https://github.com/AIMROM/template/raw/oreographics/features.gif[/IMG]
+ 
+[B][I][COLOR="green"]DIVE DEEP INTO THE FREEDOM HUB[/COLOR][/I][/B]
+
+[B][COLOR="blue"][SIZE="5"]STATUSBAR :[/COLOR][/SIZE][/B]
+[HIDE]
+[B][COLOR="teal"][SIZE="3"]
+ Network Traffic indicators
+ Quick settings rows and coloumn
+ Auto brightness icon toggle
+ Statusbar Custom Logos
+ Statusbar AIM Logo
+ VoLTE icon Toggle
+ Custom Statusbar icons
+ Brightness Control
+ -- More will be added soon --
+ [/SIZE][/COLOR][/B][/HIDE]
+
+[B][COLOR="blue"][SIZE="5"]INTERFACE :[/COLOR][/SIZE][/B][HIDE]
+[B][COLOR="teal"][SIZE="3"]
+ AOKP Custom System Animations
+ XuiMod: Toast Animations
+ Listanimation Views and Interpolator
+ [/SIZE][/COLOR][/B][/HIDE]
+ 
+[CENTER][B][SIZE="5"][COLOR="blue"]BUTTONS :[/COLOR][/SIZE][/B][/CENTER]
+[HIDE][B][COLOR="teal"][SIZE="3"]
+ Nav Bar toggle
+ Nav Bar doubletap to sleep
+ Powermenu Customizations
+ Volume Rockers Customization
+ [/SIZE][/COLOR][/B][/HIDE]
+
+[CENTER][B][SIZE="5"][COLOR="blue"]Lockscreen :[/COLOR][/SIZE][/B][/CENTER]
+[HIDE][B][COLOR="teal"][SIZE="3"]
+ Lockscreen doubletap to sleep
+ Lockscreen Charging info
+ Media Cover Art
+ [/SIZE][/COLOR][/B][/HIDE]
+
+[CENTER][B][SIZE="5"][COLOR="blue"]Notifications :[/COLOR][/SIZE][/B][/CENTER]
+[HIDE][B][COLOR="teal"][SIZE="3"]
+ Notification Ticker
+ Custom Battery Lights
+ [/SIZE][/COLOR][/B][/HIDE]
+
+[B][SIZE="5"][COLOR="blue"]MISC :[/COLOR][/SIZE][/B]
+[HIDE][B][COLOR="teal"][SIZE="3"]
+ App Ops
+ App tost icon
+ Mtp insted of charging
+ Launch Music player on headset connect
+
+ [/SIZE][/COLOR][/B][/HIDE]
+ 
+[COLOR="royalblue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
+ 
+[IMG]https://github.com/AIMROM/template/raw/oreographics/Downloads.gif[/IMG]
+[HIDE][URL=ENTER LINK HERE] DOWNLOAD AIMROM NOW[/URL][/HIDE]
+ 
+[IMG]https://github.com/AIMROM/template/raw/oreographics/Meet-our-team.gif[/IMG]
+[COLOR="Navy"][SIZE=3]
+[B]
+Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
+[MENTION=6034516]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
+[MENTION=7550463]Shadowreaper1[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
+[MENTION=4168602]Klabit87[/MENTION] --> [B][I][COLOR="green"]Developer[/COLOR][/I][/B][/SIZE][/CENTER][/COLOR][/B]
+ 
+[CENTER][IMG]https://github.com/AIMROM/template/raw/oreographics/Keep-in-touch.gif[/IMG][/CENTER]
+[CENTER][B][I][SIZE="3"][COLOR="Green"]JOIN OUR COMMUNITIES[/COLOR][/SIZE][/I][/B][/CENTER]
+ 
+[CENTER][URL="https://t.me/joinchat/AAAAAEGlvThIxMq8yPB1JA"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/telegram.png[/IMG][/URL]   [URL="https://plus.google.com/communities/111507505190229665939"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/gplus.png[/IMG][/URL]
+[/CENTER]
+
+[CENTER][IMG]https://github.com/AIMROM/template/raw/oreographics/Our-git.gif[/IMG]
+[B][URL="http://github.com/AIMROM"][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/commgit.png[/IMG][/URL] [/B][/CENTER]
+ 
+[URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/shareyourlove.png[/IMG][/CENTER][/URL]
+[CENTER][B][FONT="Times New Roman"][COLOR="red"]DONATIONS ARE NOT NECESSARY, BUT IT WILL HELP US PAY SERVER BILLS, EACH AND EVERY PENNY FROM YOU IS VALUABLE [/COLOR] [/FONT][/B]
+ 
+[B][I][COLOR="blue"][URL="https://www.paypal.me/AIMroms"][COLOR="teal"]If you love our work and want to help us? then click the button[/COLOR][/URL][/COLOR][/I][/B]:angel::angel:[/CENTER]
+[URL="https://www.paypal.me/AIMroms"][CENTER][IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/donateusplox.png[/IMG][/CENTER][/URL]

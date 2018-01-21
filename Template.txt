@@ -94,7 +94,7 @@ use this as Thread Title : [ROM][Oreo][OFFICIAL] AIM ROM v3.0 [8.0.0_r32][Enter 
 Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
 [MENTION=6034516]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
 [MENTION=7550463]Shadowreaper1[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
-[MENTION=4168602]Klabit87[/MENTION] --> [B][I][COLOR="green"]Developer[/COLOR][/I][/B][/SIZE][/CENTER][/COLOR][/B]
+
  
 [CENTER][IMG]https://github.com/AIMROM/template/raw/oreographics/Keep-in-touch.gif[/IMG][/CENTER]
 [CENTER][B][I][SIZE="3"][COLOR="Green"]JOIN OUR COMMUNITIES[/COLOR][/SIZE][/I][/B][/CENTER]

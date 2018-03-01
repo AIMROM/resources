@@ -71,7 +71,7 @@ use this as Thread Title : [ROM][7.1.2][OFFICIAL] AIM ROM v2.0 [OMS/DUI][Enter d
 [COLOR="royalblue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
  
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/Downloads.png[/IMG]
-[HIDE][URL=DOWNLOAD AIM NOW] ENTER YOUR ROM LINK HERE[/URL][/HIDE]
+[HIDE][URL="ENTER YOUR ROM LINK HERE"]DOWNLOAD AIM NOW[/URL][/HIDE]
  
 [IMG]https://raw.githubusercontent.com/AIMROM/template/graphics/meetourteam.png[/IMG]
 [COLOR="Navy"][SIZE=3]

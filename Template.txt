@@ -12,7 +12,7 @@
 
 
 
-use this as Thread Title : [ROM][Oreo][OFFICIAL] AIM ROM v3.2 [8.1.0_r20][Enter device name here]
+use this as Thread Title : [ROM][10.0][OFFICIAL] AIM ROM v4.0 [10.0.0_r31][Enter device name here]
 
 
 ---------------XDA THREAD TEMPLATE --- COPY FROM  HERE -------------------------
@@ -20,10 +20,10 @@ use this as Thread Title : [ROM][Oreo][OFFICIAL] AIM ROM v3.2 [8.1.0_r20][Enter 
 [CENTER][IMG]https://github.com/AIMROM/template/raw/oreographics/AIM%20ROM.gif[/IMG]
  
 [IMG]https://github.com/AIMROM/template/raw/oreographics/About-us.gif[/IMG]
-[COLOR="black"][B]AIMROM[/COLOR] is based on AOSP. We AIM to provide you with an experience of unmatched stability, performance, battery life, customizations and useful features that are picked out by our team and testers. We ensure that the sweet taste of latest Android essence stays with your device.[/B]
+[COLOR="black"][B]AIMROM[/COLOR] is based on LineageOS. We AIM to provide you with an experience of unmatched stability, performance, battery life, customizations and useful features that are picked out by our team and testers. We ensure that the sweet taste of latest Android essence stays with your device.[/B]
  
  
-[B][SIZE="5"][COLOR="Green"]Introducing Oreo based AIMROM for "Enter device name here"[/COLOR][/SIZE][/B]
+[B][SIZE="5"][COLOR="Green"]Introducing 10.x based AIMROM for "Enter device name here"[/COLOR][/SIZE][/B]
  
 [IMG]https://github.com/AIMROM/template/raw/oreographics/features.gif[/IMG]
  
@@ -35,12 +35,10 @@ use this as Thread Title : [ROM][Oreo][OFFICIAL] AIM ROM v3.2 [8.1.0_r20][Enter 
  Network Traffic indicators
  Quick settings rows and coloumn
  Auto brightness icon toggle
- Statusbar Custom Logos
- Statusbar AIM Logo
- VoLTE icon Toggle
- Custom Statusbar icons
  Brightness Control
- -- More will be added soon --
+ Statusbar Clock customizations
+ Statusbar battery customizations
+ and much more...
  [/SIZE][/COLOR][/B][/HIDE]
 
 [B][COLOR="blue"][SIZE="5"]INTERFACE :[/COLOR][/SIZE][/B][HIDE]
@@ -48,35 +46,41 @@ use this as Thread Title : [ROM][Oreo][OFFICIAL] AIM ROM v3.2 [8.1.0_r20][Enter 
  AOKP Custom System Animations
  XuiMod: Toast Animations
  Listanimation Views and Interpolator
+ RGB accent picker
+ and much more...
  [/SIZE][/COLOR][/B][/HIDE]
  
 [B][SIZE="5"][COLOR="blue"]BUTTONS :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="teal"][SIZE="3"]
  Nav Bar toggle
- Nav Bar doubletap to sleep
  Powermenu Customizations
  Volume Rockers Customization
+ Hw keys custom actions
+ and much more...
  [/SIZE][/COLOR][/B][/HIDE]
 
-[B][SIZE="5"][COLOR="blue"]Lockscreen :[/COLOR][/SIZE][/B]
-[HIDE][B][COLOR="teal"][SIZE="3"]
+ [B][SIZE="5"][COLOR="blue"]Lockscreen :[/COLOR][/SIZE][/B]
+ [HIDE][B][COLOR="teal"][SIZE="3"]
  Lockscreen doubletap to sleep
  Lockscreen Charging info
  Media Cover Art
+ and much more...
  [/SIZE][/COLOR][/B][/HIDE]
-[B][SIZE="5"][COLOR="blue"]Notifications :[/COLOR][/SIZE][/B]
-[HIDE][B][COLOR="teal"][SIZE="3"]
- Notification Ticker
+
+ [B][SIZE="5"][COLOR="blue"]Notifications :[/COLOR][/SIZE][/B]
+ [HIDE][B][COLOR="teal"][SIZE="3"]
+ Custom notification lights
  Custom Battery Lights
+ Ambient pulse notifications
+ and much more...
  [/SIZE][/COLOR][/B][/HIDE]
 
 [B][SIZE="5"][COLOR="blue"]MISC :[/COLOR][/SIZE][/B]
 [HIDE][B][COLOR="teal"][SIZE="3"]
- App Ops
  App tost icon
- Mtp insted of charging
- Launch Music player on headset connect
-
+ Slim recents
+ Gaming mode
+ and much more...
  [/SIZE][/COLOR][/B][/HIDE]
  
 [COLOR="royalblue"][B][I]More Goodies Are On Their Way![/I][/B][/COLOR]
@@ -88,8 +92,9 @@ use this as Thread Title : [ROM][Oreo][OFFICIAL] AIM ROM v3.2 [8.1.0_r20][Enter 
 [COLOR="Navy"][SIZE=3]
 [B]
 Emmanuel N. D. Enlinger (not a member of XDA) -->[B][I][COLOR="green"]Founder/project maintainer[/COLOR][/I][/B]
-[MENTION=6034516]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder/Head developer[/COLOR][/I][/B]
-[MENTION=7550463]Shadowreaper1[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
+[MENTION=6034516]Anand N v[/MENTION] --> [B][I][COLOR="green"]Co Founder[/COLOR][/I][/B]
+[MENTION=7955635]Ravi Pingat[/MENTION]  --> [B][I][COLOR="green"]Lead developer[/COLOR][/I][/B]
+[MENTION=6589753]Albert I(krasCGQ)[/MENTION]  --> [B][I][COLOR="green"]Developer/moderator[/COLOR][/I][/B]
 [/COLOR][/SIZE][/B]
  
 [IMG]https://github.com/AIMROM/template/raw/oreographics/Keep-in-touch.gif[/IMG]
